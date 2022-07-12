@@ -1,5 +1,10 @@
-# 💫 About Me:
-# 💫 About Me :<br>- 😄 Pronouns: He/His<br>- 🌱 I’m currently learning and exploring more about data science, ML and web development.<br>- 👯 I would love to collaborate with you.<br>- 💬 Ask me about DSA and any technical stuffs.<br>- 📫 How to reach me: Check social links below.<br>- ⚡ Fun fact: I love to watch sci-fi shows and movies.
+# 💫 About Me :<br>
+- 😄 Pronouns: He/His<br>
+- 🌱 I’m currently learning and exploring more about data science, ML and web development.<br>
+- 👯 I would love to collaborate with you.<br>
+- 💬 Ask me about DSA and any technical stuffs.<br>
+- 📫 How to reach me: Check social links below.<br>
+- ⚡ Fun fact: I love to watch sci-fi shows and movies.
 
 
 ## 🌐 Socials:
